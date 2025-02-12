@@ -11,5 +11,6 @@ for num in nums:
     if smallest > num:
         smallest = num
 
-print(f"Largest Number: {largest}")
-print(f"Smallest Number: {smallest}")
+print(f"Largest Number in list: {largest}")
+print(f"Smallest Number in list: {smallest}")
+
